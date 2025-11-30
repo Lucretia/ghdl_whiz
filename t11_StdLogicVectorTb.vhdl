@@ -22,6 +22,7 @@ begin
             Slv6 (I) <= Slv6 (I - 1);
         end loop;
 
+        --  This all happens at the same time, try commenting this out.
         Slv6 (Slv6'Right) <= Slv6 (Slv6'Left);
     end process;
 end architecture;
