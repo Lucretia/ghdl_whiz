@@ -19,3 +19,5 @@ Also, it doesn't automatically scale the timeline to the waveform, which is real
 ## Vaporview
 
 This is a good extension, but I've not been able to find out how to separate out the array of bits as separate signals in the view.
+
+For T16, `DataWidth` will not be a visible data point for display like with ModelSim in the video.
