@@ -1,5 +1,5 @@
 --  Analyse: ghdl -a t11_StdLogicVectorTb.vhdl
---  Run    : ghdl -r t11_StdLogicVectorTb --vcd=./t11_StdLogicVectorTb.vcd --stop-time=200n
+--  Run    : ghdl -r t11_StdLogicVectorTb --vcd=./t11_StdLogicVectorTb.vcd --stop-time=200ns
 library ieee;
 use ieee.std_logic_1164.all;
 

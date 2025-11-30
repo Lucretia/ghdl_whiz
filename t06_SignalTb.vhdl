@@ -1,5 +1,5 @@
 --  Analyse: ghdl -a t06_SignalTb.vhdl
---  Run    : ghdl -r t06_SignalTb --stop-time=200n
+--  Run    : ghdl -r t06_SignalTb --stop-time=200ns
 entity T06_SignalTb is
 end entity;
 
