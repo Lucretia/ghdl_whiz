@@ -7,7 +7,7 @@ use ieee.numeric_std.all;
 entity T14_CaseWhenTb is
 end entity;
 
-architecture behav of T14_CaseWhenTb is
+architecture sim of T14_CaseWhenTb is
     signal Sig1 : unsigned (7 downto 0) := X"AA";
     signal Sig2 : unsigned (7 downto 0) := X"BB";
     signal Sig3 : unsigned (7 downto 0) := X"CC";

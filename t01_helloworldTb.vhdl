@@ -3,7 +3,7 @@
 entity T01_HelloWorldTB is
 end entity;
 
-architecture behav of T01_HelloWorldTB is
+architecture sim of T01_HelloWorldTB is
 begin
     process
     begin

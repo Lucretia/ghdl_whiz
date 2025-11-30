@@ -7,7 +7,7 @@ use ieee.numeric_std.all;
 entity T12_SignedUnsignedTb is
 end entity;
 
-architecture behav of T12_SignedUnsignedTb is
+architecture sim of T12_SignedUnsignedTb is
     signal UnsCnt : unsigned (7 downto 0) := (others => '0');
     signal SgnCnt : signed (7 downto 0)   := (others => '0');
 

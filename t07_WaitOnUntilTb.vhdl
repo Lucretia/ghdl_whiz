@@ -3,7 +3,7 @@
 entity T07_WaitOnUntilTb is
 end entity;
 
-architecture behav of T07_WaitOnUntilTb is
+architecture sim of T07_WaitOnUntilTb is
     signal CountUp   : Integer := 0;
     signal CountDown : Integer := 10;
 begin

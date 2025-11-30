@@ -6,7 +6,7 @@ use ieee.std_logic_1164.all;
 entity T11_StdLogicVectorTb is
 end entity;
 
-architecture behav of T11_StdLogicVectorTb   is
+architecture sim of T11_StdLogicVectorTb   is
     signal Slv1 : std_logic_vector(7 downto 0);
     signal Slv2 : std_logic_vector(7 downto 0) := (others => '0');
     signal Slv3 : std_logic_vector(7 downto 0) := (others => '1');

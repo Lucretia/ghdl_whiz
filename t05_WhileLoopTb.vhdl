@@ -3,7 +3,7 @@
 entity T05_WhileLoopTB is
 end entity;
 
-architecture behav of T05_WhileLoopTB is
+architecture sim of T05_WhileLoopTB is
 begin
     process
         variable I : Integer := 0;

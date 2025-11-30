@@ -3,7 +3,7 @@
 entity T08_IfTb is
 end entity;
 
-architecture behav of T08_IfTb is
+architecture sim of T08_IfTb is
     signal CountUp   : Integer := 0;
     signal CountDown : Integer := 10;
 begin

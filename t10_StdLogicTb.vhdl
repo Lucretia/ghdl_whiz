@@ -6,7 +6,7 @@ use ieee.std_logic_1164.all;
 entity T10_StdLogicTb is
 end entity;
 
-architecture behav of T10_StdLogicTb is
+architecture sim of T10_StdLogicTb is
     signal Signal1 : std_logic := '0';
     signal Signal2 : std_logic;
     signal Signal3 : std_logic;

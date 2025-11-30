@@ -7,7 +7,7 @@ use ieee.numeric_std.all;
 entity T13_ConcurrentProcsTb is
 end entity;
 
-architecture behav of T13_ConcurrentProcsTb is
+architecture sim of T13_ConcurrentProcsTb is
     signal Uns  : unsigned (5 downto 0) := (others => '0');
     signal Mul1 : unsigned (7 downto 0);
     signal Mul2 : unsigned (7 downto 0);

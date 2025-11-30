@@ -3,7 +3,7 @@
 entity T06_SignalTb is
 end entity;
 
-architecture behav of T06_SignalTb is
+architecture sim of T06_SignalTb is
     signal MySignal : Integer := 0;
 begin
     process

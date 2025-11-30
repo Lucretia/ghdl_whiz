@@ -3,7 +3,7 @@
 entity T02_WaitForTB is
 end entity;
 
-architecture behav of T02_WaitForTB is
+architecture sim of T02_WaitForTB is
 begin
     process
     begin

@@ -3,7 +3,7 @@
 entity T09_SensitivityListTb is
 end entity;
 
-architecture behav of T09_SensitivityListTb is
+architecture sim of T09_SensitivityListTb is
     signal CountUp   : Integer := 0;
     signal CountDown : Integer := 10;
 begin

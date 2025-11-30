@@ -3,7 +3,7 @@
 entity T03_LoopTB is
 end entity;
 
-architecture behav of T03_LoopTB is
+architecture sim of T03_LoopTB is
 begin
     process
     begin

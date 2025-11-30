@@ -3,7 +3,7 @@
 entity T04_ForLoopTB is
 end entity;
 
-architecture behav of T04_ForLoopTB is
+architecture sim of T04_ForLoopTB is
 begin
     process
     begin
