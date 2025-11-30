@@ -13,3 +13,5 @@ I had an issue with this plugin window turning fully grey on T10 with the second
 ## GTKWave
 
 On KDE plasma with HiDPI and not great eyesight, I find it hard to see the text and GDK_SCALE doesn't work.
+
+Also, it doesn't automatically scale the timeline to the waveform, which is really annoying.
