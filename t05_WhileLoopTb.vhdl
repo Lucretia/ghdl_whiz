@@ -1,5 +1,5 @@
 --  Analyse: ghdl -a t05_WhileLoopTb.vhdl
---  Run    : ghdl -r t05_WhileLoopTb
+--  Run    : ghdl -r t05_WhileLoopTb --stop-time=200n
 entity T05_WhileLoopTB is
 end entity;
 

@@ -1,5 +1,5 @@
 --  Analyse: ghdl -a t08_IfTb.vhdl
---  Run    : ghdl -r t08_IfTb
+--  Run    : ghdl -r t08_IfTb --stop-time=200n
 entity T08_IfTb is
 end entity;
 

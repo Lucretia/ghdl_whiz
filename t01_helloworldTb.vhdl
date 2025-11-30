@@ -1,5 +1,5 @@
 --  Analyse: ghdl -a t01_helloworldTb.vhdl
---  Run    : ghdl -r t01_helloworldTb
+--  Run    : ghdl -r t01_helloworldTb --stop-time=200n
 entity T01_HelloWorldTB is
 end entity;
 

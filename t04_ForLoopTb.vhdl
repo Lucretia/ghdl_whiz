@@ -1,5 +1,5 @@
 --  Analyse: ghdl -a t04_ForLoopTb.vhdl
---  Run    : ghdl -r t04_ForLoopTb
+--  Run    : ghdl -r t04_ForLoopTb --stop-time=200n
 entity T04_ForLoopTB is
 end entity;
 

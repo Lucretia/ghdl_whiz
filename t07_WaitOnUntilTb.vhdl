@@ -1,5 +1,5 @@
 --  Analyse: ghdl -a t07_WaitOnUntilTb.vhdl
---  Run    : ghdl -r t07_WaitOnUntilTb
+--  Run    : ghdl -r t07_WaitOnUntilTb --stop-time=200n
 entity T07_WaitOnUntilTb is
 end entity;
 

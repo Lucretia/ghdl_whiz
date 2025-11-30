@@ -1,5 +1,5 @@
 --  Analyse: ghdl -a t02_WaitForTb.vhdl
---  Run    : ghdl -r t02_WaitForTb
+--  Run    : ghdl -r t02_WaitForTb --stop-time=200n
 entity T02_WaitForTB is
 end entity;
 

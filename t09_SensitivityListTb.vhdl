@@ -1,5 +1,5 @@
 --  Analyse: ghdl -a t09_SensitivityListTb.vhdl
---  Run    : ghdl -r t09_SensitivityListTb
+--  Run    : ghdl -r t09_SensitivityListTb --stop-time=200n
 entity T09_SensitivityListTb is
 end entity;
 
