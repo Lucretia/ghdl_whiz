@@ -18,10 +18,10 @@ begin
     begin
         wait for 10 ns;
 
-        for I in 7 downto 1 loop
+        for I in Slv6'Left downto Slv6'Right + 1 loop
             Slv6 (I) <= Slv6 (I - 1);
         end loop;
 
-        Slv6 (0) <= Slv6 (7);
+        Slv6 (Slv6'Right) <= Slv6 (Slv6'Left);
     end process;
 end architecture;

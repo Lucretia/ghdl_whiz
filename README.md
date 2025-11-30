@@ -15,3 +15,7 @@ I had an issue with this plugin window turning fully grey on T10 with the second
 On KDE plasma with HiDPI and not great eyesight, I find it hard to see the text and GDK_SCALE doesn't work.
 
 Also, it doesn't automatically scale the timeline to the waveform, which is really annoying.
+
+## Vaporview
+
+This is a good extension, but I've not been able to find out how to separate out the array of bits as separate signals in the view.
