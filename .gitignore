@@ -1,4 +1,6 @@
 *.vcd
+*.fst
+*.ghw
 *.vscode
 *.cf
 .gitignore
