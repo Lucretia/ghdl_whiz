@@ -1,0 +1,4 @@
+*.vcd
+*.vscode
+*.cf
+.gitignore
