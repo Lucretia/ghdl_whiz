@@ -23,3 +23,5 @@ This is a good extension, but I've not been able to find out how to separate out
 For T16, `DataWidth` will not be a visible data point for display like with ModelSim in the video.
 
 In T18, it's not possible for ghdl to run the simulation for 24 hours with `---stop-time=86400secs`
+
+For T20, to get a visible State signal within the waveform, change from VCD format to GHW.
