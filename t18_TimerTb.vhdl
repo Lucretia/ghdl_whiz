@@ -1,6 +1,6 @@
 --  Analyse: ghdl -a t18_Timer.vhdl
 --  Analyse: ghdl -a t18_TimerTb.vhdl
---  Run    : ghdl -r t18_TimerTb --vcd=./t18_TimerTb.vcd --stop-time=10s/600s/3660s
+--  Run    : ghdl -r t18_TimerTb --vcd=./t18_TimerTb.vcd --stop-time=10sec/600sec/3660sec
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
